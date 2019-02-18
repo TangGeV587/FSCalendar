@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name             = "ZFSCalendar"
-  s.version          = "2.8.0"
+  s.version          = "2.8.1"
   s.summary          = "研究使用"
   
   s.homepage         = "https://github.com/TangGeV587/FSCalendar.git"
